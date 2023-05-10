@@ -4,4 +4,4 @@
 
 #### This is the architecture profile of the Repository Pattern
 
-![image](image\repository_pattern.png)
+![image](image/repository_pattern.png)
